@@ -1,4 +1,74 @@
-
 {
-  "fixtures": []
+  "fixtures": [
+    {
+      "home": "Cruzeiro EC",
+      "away": "EC Bahia",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-06T00:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Willem II Tilburg",
+      "away": "PEC Zwolle",
+      "competition": "Eredivisie",
+      "kickoffUtc": "2026-11-06T19:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Hamburger SV",
+      "away": "Borussia Mönchengladbach",
+      "competition": "Bundesliga",
+      "kickoffUtc": "2026-11-06T19:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg Alsace",
+      "competition": "Ligue 1",
+      "kickoffUtc": "2026-11-06T19:45:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Venezia FC",
+      "away": "Udinese Calcio",
+      "competition": "Serie A",
+      "kickoffUtc": "2026-11-06T19:45:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Derby County FC",
+      "away": "Bolton Wanderers FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-06T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Everton FC",
+      "away": "Coventry City FC",
+      "competition": "Premier League",
+      "kickoffUtc": "2026-11-06T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alavés",
+      "competition": "Primera Division",
+      "kickoffUtc": "2026-11-06T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "FC Famalicão",
+      "away": "FC Arouca",
+      "competition": "Primeira Liga",
+      "kickoffUtc": "2026-11-06T20:45:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "EC Vitória",
+      "away": "Fluminense FC",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-06T23:00:00Z",
+      "ukChannels": []
+    }
+  ]
 }
