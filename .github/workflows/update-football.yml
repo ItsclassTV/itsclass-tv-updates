@@ -1,0 +1,42 @@
+name: Update Today's Football
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 * * * *' # hourly, UTC; scheduled runs may be delayed
+
+permissions:
+  contents: write
+
+concurrency:
+  group: football-json-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch football fixtures
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: python scripts/update_football.py
+      - name: Commit changed football.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add football.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update football fixtures"
+            git push origin HEAD:main
+          else
+            echo "No fixture changes"
+          fi
