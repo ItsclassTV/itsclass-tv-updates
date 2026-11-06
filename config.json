@@ -1,7 +1,17 @@
 
 {
-  "announcement": "Online updates are working!",
+  "announcement": "Welcome to ItsclassTV",
   "maintenance": false,
-  "maintenance_message": "ItsclassTV is currently undergoing maintenance.",
-  "apk_repo": "ItsclassTV/itsclass-tv-updates"
+  "maintenance_message": "We are currently performing maintenance.",
+  "apk_repo": "ItsclassTV/itsclass-tv-updates",
+  "home_banner": "Your entertainment starts here",
+  "support_message": "Contact your provider for assistance.",
+  "update_notice": "",
+  "minimum_version_code": 36,
+  "features": {
+    "live_tv": true,
+    "movies": true,
+    "series": true,
+    "catchup": true
+  }
 }
