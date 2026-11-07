@@ -1,73 +1,255 @@
 {
   "fixtures": [
     {
-      "home": "Cruzeiro EC",
-      "away": "EC Bahia",
-      "competition": "Campeonato Brasileiro Série A",
-      "kickoffUtc": "2026-11-06T00:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Willem II Tilburg",
-      "away": "PEC Zwolle",
-      "competition": "Eredivisie",
-      "kickoffUtc": "2026-11-06T19:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Hamburger SV",
-      "away": "Borussia Mönchengladbach",
-      "competition": "Bundesliga",
-      "kickoffUtc": "2026-11-06T19:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg Alsace",
-      "competition": "Ligue 1",
-      "kickoffUtc": "2026-11-06T19:45:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Venezia FC",
-      "away": "Udinese Calcio",
-      "competition": "Serie A",
-      "kickoffUtc": "2026-11-06T19:45:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Derby County FC",
-      "away": "Bolton Wanderers FC",
+      "home": "Bristol City FC",
+      "away": "Norwich City FC",
       "competition": "Championship",
-      "kickoffUtc": "2026-11-06T20:00:00Z",
+      "kickoffUtc": "2026-11-07T12:30:00Z",
       "ukChannels": []
     },
     {
-      "home": "Everton FC",
-      "away": "Coventry City FC",
+      "home": "Portsmouth FC",
+      "away": "Stoke City FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T12:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Wolverhampton Wanderers FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T12:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Leeds United FC",
+      "away": "Tottenham Hotspur FC",
       "competition": "Premier League",
-      "kickoffUtc": "2026-11-06T20:00:00Z",
+      "kickoffUtc": "2026-11-07T12:30:00Z",
       "ukChannels": []
     },
     {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alavés",
+      "home": "Málaga CF",
+      "away": "Real Racing Club de Santander",
       "competition": "Primera Division",
-      "kickoffUtc": "2026-11-06T20:00:00Z",
+      "kickoffUtc": "2026-11-07T13:00:00Z",
       "ukChannels": []
     },
     {
-      "home": "FC Famalicão",
-      "away": "FC Arouca",
+      "home": "Cagliari Calcio",
+      "away": "Frosinone Calcio",
+      "competition": "Serie A",
+      "kickoffUtc": "2026-11-07T14:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Torino FC",
+      "away": "US Lecce",
+      "competition": "Serie A",
+      "kickoffUtc": "2026-11-07T14:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "1. FSV Mainz 05",
+      "away": "FC Bayern München",
+      "competition": "Bundesliga",
+      "kickoffUtc": "2026-11-07T14:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "SV 07 Elversberg",
+      "competition": "Bundesliga",
+      "kickoffUtc": "2026-11-07T14:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "RB Leipzig",
+      "away": "FC Augsburg",
+      "competition": "Bundesliga",
+      "kickoffUtc": "2026-11-07T14:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "SC Paderborn 07",
+      "away": "Eintracht Frankfurt",
+      "competition": "Bundesliga",
+      "kickoffUtc": "2026-11-07T14:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Birmingham City FC",
+      "away": "Swansea City AFC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Blackburn Rovers FC",
+      "away": "West Ham United FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Cardiff City FC",
+      "away": "Burnley FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Charlton Athletic FC",
+      "away": "Sheffield United FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Preston North End FC",
+      "away": "Southampton FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Queens Park Rangers FC",
+      "away": "Lincoln City FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Watford FC",
+      "away": "Middlesbrough FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "West Bromwich Albion FC",
+      "away": "Millwall FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Arsenal FC",
+      "away": "Hull City AFC",
+      "competition": "Premier League",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Fulham FC",
+      "away": "Newcastle United FC",
+      "competition": "Premier League",
+      "kickoffUtc": "2026-11-07T15:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "RCD Espanyol de Barcelona",
+      "away": "RC Deportivo La Coruña",
+      "competition": "Primera Division",
+      "kickoffUtc": "2026-11-07T15:15:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Fortuna Sittard",
+      "away": "Telstar 1963",
+      "competition": "Eredivisie",
+      "kickoffUtc": "2026-11-07T15:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "CD Nacional",
+      "away": "Académico de Viseu FC",
       "competition": "Primeira Liga",
-      "kickoffUtc": "2026-11-06T20:45:00Z",
+      "kickoffUtc": "2026-11-07T15:30:00Z",
       "ukChannels": []
     },
     {
-      "home": "EC Vitória",
-      "away": "Fluminense FC",
-      "competition": "Campeonato Brasileiro Série A",
-      "kickoffUtc": "2026-11-06T23:00:00Z",
+      "home": "Parma Calcio 1913",
+      "away": "Bologna FC 1909",
+      "competition": "Serie A",
+      "kickoffUtc": "2026-11-07T17:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "VfB Stuttgart",
+      "away": "SV Werder Bremen",
+      "competition": "Bundesliga",
+      "kickoffUtc": "2026-11-07T17:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Nottingham Forest FC",
+      "away": "Manchester City FC",
+      "competition": "Premier League",
+      "kickoffUtc": "2026-11-07T17:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Athletic Club",
+      "competition": "Primera Division",
+      "kickoffUtc": "2026-11-07T17:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "ADO Den Haag",
+      "away": "Sparta Rotterdam",
+      "competition": "Eredivisie",
+      "kickoffUtc": "2026-11-07T17:45:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "competition": "Ligue 1",
+      "kickoffUtc": "2026-11-07T18:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "FC Alverca",
+      "away": "Casa Pia AC",
+      "competition": "Primeira Liga",
+      "kickoffUtc": "2026-11-07T18:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "AS Roma",
+      "away": "US Sassuolo Calcio",
+      "competition": "Serie A",
+      "kickoffUtc": "2026-11-07T19:45:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "SBV Excelsior",
+      "away": "Go Ahead Eagles",
+      "competition": "Eredivisie",
+      "kickoffUtc": "2026-11-07T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Valencia CF",
+      "away": "Real Madrid CF",
+      "competition": "Primera Division",
+      "kickoffUtc": "2026-11-07T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Paris Saint-Germain FC",
+      "away": "ES Troyes AC",
+      "competition": "Ligue 1",
+      "kickoffUtc": "2026-11-07T20:05:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Sporting Clube de Portugal",
+      "away": "Moreirense FC",
+      "competition": "Primeira Liga",
+      "kickoffUtc": "2026-11-07T20:30:00Z",
       "ukChannels": []
     }
   ]
