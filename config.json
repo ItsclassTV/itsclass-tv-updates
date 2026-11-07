@@ -1,5 +1,6 @@
-"football_api_url": "https://itsclasstv-football.jbltdtoys.workers.dev"
+
 {
+  "football_api_url": "https://itsclasstv-football.jbltdtoys.workers.dev",
   "announcement": "Welcome to ItsclassTV",
   "maintenance": false,
   "maintenance_message": "We are currently performing maintenance.",
