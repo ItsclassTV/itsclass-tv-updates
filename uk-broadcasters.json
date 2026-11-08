@@ -1,13 +1,3 @@
-
-
 {
-  "matches": [
-    {
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "ukBroadcasters": [
-        "TEST CHANNEL - NOT A REAL LISTING"
-      ]
-    }
-  ]
+  "matches": []
 }
