@@ -1,7 +1,7 @@
 
 {
   "football_api_url": "https://itsclasstv-football.jbltdtoys.workers.dev",
-  "announcement": "Welcome to ItsclassTV",
+  "announcement": "",
   "maintenance": false,
   "maintenance_message": "We are currently performing maintenance.",
   "apk_repo": "ItsclassTV/itsclass-tv-updates",
