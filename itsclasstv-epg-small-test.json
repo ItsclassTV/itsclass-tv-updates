@@ -1,0 +1,36 @@
+{
+  "matches": [
+    {
+      "home": "Hamilton Academical",
+      "away": "Ross County",
+      "channel": "BBC ALBA HD",
+      "start": "2026-11-14T17:20:00+00:00",
+      "stop": "2026-11-14T19:30:00+00:00",
+      "live": true
+    },
+    {
+      "home": "Fleetwood Town",
+      "away": "Tranmere Rovers",
+      "channel": "SkySp Fball",
+      "start": "2026-11-14T17:00:00+00:00",
+      "stop": "2026-11-14T20:00:00+00:00",
+      "live": true
+    },
+    {
+      "home": "Fleetwood Town",
+      "away": "Tranmere Rovers",
+      "channel": "SkySp Fball HD",
+      "start": "2026-11-14T17:00:00+00:00",
+      "stop": "2026-11-14T20:00:00+00:00",
+      "live": true
+    },
+    {
+      "home": "Fleetwood Town",
+      "away": "Tranmere Rovers",
+      "channel": "SkySpMainEvHD",
+      "start": "2026-11-14T17:00:00+00:00",
+      "stop": "2026-11-14T19:30:00+00:00",
+      "live": true
+    }
+  ]
+}
