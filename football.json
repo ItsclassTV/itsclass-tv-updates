@@ -1,3 +1,18 @@
 {
-  "fixtures": []
+  "fixtures": [
+    {
+      "home": "Mirassol FC",
+      "away": "CA Mineiro",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-14T21:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Chapecoense AF",
+      "away": "CR Vasco da Gama",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-14T23:30:00Z",
+      "ukChannels": []
+    }
+  ]
 }
