@@ -1,3 +1,32 @@
 {
-  "fixtures": []
+  "fixtures": [
+    {
+      "home": "Coritiba FBC",
+      "away": "Santos FC",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-18T22:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Clube do Remo",
+      "away": "Chapecoense AF",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-18T23:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "CR Flamengo",
+      "away": "CA Paranaense",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-18T23:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "competition": "Campeonato Brasileiro Série A",
+      "kickoffUtc": "2026-11-18T23:30:00Z",
+      "ukChannels": []
+    }
+  ]
 }
