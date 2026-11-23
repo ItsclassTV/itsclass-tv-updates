@@ -1,178 +1,38 @@
 {
   "fixtures": [
     {
-      "home": "Chapecoense AF",
-      "away": "Cruzeiro EC",
-      "competition": "Campeonato Brasileiro Série A",
-      "kickoffUtc": "2026-11-22T00:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "FC Twente '65",
-      "away": "Willem II Tilburg",
-      "competition": "Eredivisie",
-      "kickoffUtc": "2026-11-22T11:15:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Juventus FC",
-      "away": "Venezia FC",
+      "home": "AC Monza",
+      "away": "ACF Fiorentina",
       "competition": "Serie A",
-      "kickoffUtc": "2026-11-22T11:30:00Z",
+      "kickoffUtc": "2026-11-23T19:45:00Z",
       "ukChannels": []
     },
     {
-      "home": "Burnley FC",
-      "away": "Blackburn Rovers FC",
-      "competition": "Championship",
-      "kickoffUtc": "2026-11-22T12:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "FC Barcelona",
-      "away": "Villarreal CF",
-      "competition": "Primera Division",
-      "kickoffUtc": "2026-11-22T13:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "AFC Ajax",
-      "away": "ADO Den Haag",
-      "competition": "Eredivisie",
-      "kickoffUtc": "2026-11-22T13:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Sparta Rotterdam",
-      "away": "AZ",
-      "competition": "Eredivisie",
-      "kickoffUtc": "2026-11-22T13:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "competition": "Ligue 1",
-      "kickoffUtc": "2026-11-22T14:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Hull City AFC",
-      "away": "Brighton & Hove Albion FC",
+      "home": "Brentford FC",
+      "away": "Everton FC",
       "competition": "Premier League",
-      "kickoffUtc": "2026-11-22T14:00:00Z",
+      "kickoffUtc": "2026-11-23T20:00:00Z",
       "ukChannels": []
     },
     {
-      "home": "Bologna FC 1909",
-      "away": "Udinese Calcio",
-      "competition": "Serie A",
-      "kickoffUtc": "2026-11-22T14:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "US Sassuolo Calcio",
-      "away": "Genoa CFC",
-      "competition": "Serie A",
-      "kickoffUtc": "2026-11-22T14:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "1. FSV Mainz 05",
-      "competition": "Bundesliga",
-      "kickoffUtc": "2026-11-22T14:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Real Racing Club de Santander",
-      "away": "Real Sociedad de Fútbol",
+      "home": "Levante UD",
+      "away": "Elche CF",
       "competition": "Primera Division",
-      "kickoffUtc": "2026-11-22T15:15:00Z",
+      "kickoffUtc": "2026-11-23T20:00:00Z",
       "ukChannels": []
     },
     {
-      "home": "Go Ahead Eagles",
-      "away": "Fortuna Sittard",
-      "competition": "Eredivisie",
-      "kickoffUtc": "2026-11-22T15:45:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "FC Lorient",
-      "away": "Stade Rennais FC 1901",
-      "competition": "Ligue 1",
-      "kickoffUtc": "2026-11-22T16:15:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "SV Werder Bremen",
-      "away": "Hamburger SV",
-      "competition": "Bundesliga",
-      "kickoffUtc": "2026-11-22T16:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Liverpool FC",
-      "away": "Manchester United FC",
-      "competition": "Premier League",
-      "kickoffUtc": "2026-11-22T16:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "competition": "Serie A",
-      "kickoffUtc": "2026-11-22T17:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Málaga CF",
-      "competition": "Primera Division",
-      "kickoffUtc": "2026-11-22T17:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "CA Paranaense",
-      "away": "Clube do Remo",
+      "home": "SC Internacional",
+      "away": "EC Vitória",
       "competition": "Campeonato Brasileiro Série A",
-      "kickoffUtc": "2026-11-22T19:00:00Z",
+      "kickoffUtc": "2026-11-23T22:30:00Z",
       "ukChannels": []
     },
     {
-      "home": "Olympique de Marseille",
-      "away": "Le Mans FC",
-      "competition": "Ligue 1",
-      "kickoffUtc": "2026-11-22T19:45:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Atalanta BC",
-      "away": "FC Internazionale Milano",
-      "competition": "Serie A",
-      "kickoffUtc": "2026-11-22T19:45:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Getafe CF",
-      "away": "Club Atlético de Madrid",
-      "competition": "Primera Division",
-      "kickoffUtc": "2026-11-22T20:00:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "Fluminense FC",
-      "away": "Mirassol FC",
+      "home": "Botafogo FR",
+      "away": "São Paulo FC",
       "competition": "Campeonato Brasileiro Série A",
-      "kickoffUtc": "2026-11-22T21:30:00Z",
-      "ukChannels": []
-    },
-    {
-      "home": "RB Bragantino",
-      "away": "CR Vasco da Gama",
-      "competition": "Campeonato Brasileiro Série A",
-      "kickoffUtc": "2026-11-22T22:30:00Z",
+      "kickoffUtc": "2026-11-23T23:00:00Z",
       "ukChannels": []
     }
   ]
