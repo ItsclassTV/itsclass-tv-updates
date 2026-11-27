@@ -1,10 +1,66 @@
 {
   "fixtures": [
     {
-      "home": "São Paulo FC",
-      "away": "Clube do Remo",
+      "home": "FC Groningen",
+      "away": "Willem II Tilburg",
+      "competition": "Eredivisie",
+      "kickoffUtc": "2026-11-27T19:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "SV Werder Bremen",
+      "away": "Borussia Mönchengladbach",
+      "competition": "Bundesliga",
+      "kickoffUtc": "2026-11-27T19:30:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Stade Brestois 29",
+      "away": "Paris FC",
+      "competition": "Ligue 1",
+      "kickoffUtc": "2026-11-27T19:45:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Venezia FC",
+      "away": "Bologna FC 1909",
+      "competition": "Serie A",
+      "kickoffUtc": "2026-11-27T19:45:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Southampton FC",
+      "away": "Middlesbrough FC",
+      "competition": "Championship",
+      "kickoffUtc": "2026-11-27T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Nottingham Forest FC",
+      "away": "Chelsea FC",
+      "competition": "Premier League",
+      "kickoffUtc": "2026-11-27T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Levante UD",
+      "away": "Real Racing Club de Santander",
+      "competition": "Primera Division",
+      "kickoffUtc": "2026-11-27T20:00:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "CS Marítimo",
+      "away": "CD Nacional",
+      "competition": "Primeira Liga",
+      "kickoffUtc": "2026-11-27T20:15:00Z",
+      "ukChannels": []
+    },
+    {
+      "home": "Fluminense FC",
+      "away": "Cruzeiro EC",
       "competition": "Campeonato Brasileiro Série A",
-      "kickoffUtc": "2026-11-26T23:00:00Z",
+      "kickoffUtc": "2026-11-27T23:00:00Z",
       "ukChannels": []
     }
   ]
